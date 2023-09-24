@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color:azure;
+}
+
+#skills{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 18px;
+}
